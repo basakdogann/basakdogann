@@ -1,4 +1,4 @@
- [![MasterHead](https://www.shutterstock.com/tr/image-vector/rivne-ukraine-june-25-2023-set-2322698711)
+ [![MasterHead](https://www.seodanismanligi.com/resim/image.jpg)
 
 <h1 align="center">Hi 👋, I'm Başak Şehriban Doğan</h1>
 <h3 align="center">A passionate frontend developer from Türkiye</h3>
