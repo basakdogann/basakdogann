@@ -19,4 +19,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=basakdogann&show_icons=true&locale=en" alt="basakdogann" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=basakdogann&" alt="basakdogann" /></p>
-![GitHub Snake dark](https://raw.githubusercontent.com/basakdogann/basakdogann/output/github-snake.svg)
+
